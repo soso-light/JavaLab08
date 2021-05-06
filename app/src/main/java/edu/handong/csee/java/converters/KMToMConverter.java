@@ -1,4 +1,4 @@
-package edu.handong.csee.java.hw2.converters;
+package edu.handong.csee.java.converters;
 
 public class KMToMConverter implements Convertible {
 /**change km to m

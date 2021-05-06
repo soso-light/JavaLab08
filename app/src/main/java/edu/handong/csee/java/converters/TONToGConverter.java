@@ -1,4 +1,4 @@
-package edu.handong.csee.java.hw2.converters;
+package edu.handong.csee.java.converters;
 
 public class TONToGConverter implements Convertible{
 /**change ton to g

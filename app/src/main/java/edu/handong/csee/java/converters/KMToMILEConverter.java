@@ -1,4 +1,4 @@
-package edu.handong.csee.java.hw2.converters;
+package edu.handong.csee.java.converters;
 
 public class KMToMILEConverter implements Convertible{
 /**change km to mile
