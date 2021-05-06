@@ -1,4 +1,4 @@
-package edu.handong.csee.java.hw2;
+package edu.handong.csee.java;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
